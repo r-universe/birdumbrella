@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "LSD"]
+	path = LSD
+	url = https://github.com/cran/LSD
+	shallow = true
+	registered = true
